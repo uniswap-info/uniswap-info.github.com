@@ -1,13 +1,13 @@
 {
-  "main.css": "/uniswap-history/static/css/main.1405e7c1.chunk.css",
-  "main.js": "/uniswap-history/static/js/main.ec13aa8a.chunk.js",
-  "main.js.map": "/uniswap-history/static/js/main.ec13aa8a.chunk.js.map",
-  "static/js/1.b06d058a.chunk.js": "/uniswap-history/static/js/1.b06d058a.chunk.js",
-  "static/js/1.b06d058a.chunk.js.map": "/uniswap-history/static/js/1.b06d058a.chunk.js.map",
-  "runtime~main.js": "/uniswap-history/static/js/runtime~main.0ac065f8.js",
-  "runtime~main.js.map": "/uniswap-history/static/js/runtime~main.0ac065f8.js.map",
-  "static/css/main.1405e7c1.chunk.css.map": "/uniswap-history/static/css/main.1405e7c1.chunk.css.map",
-  "index.html": "/uniswap-history/index.html",
-  "precache-manifest.19dda4e5e00d4edd5d64fc6b305920ff.js": "/uniswap-history/precache-manifest.19dda4e5e00d4edd5d64fc6b305920ff.js",
-  "service-worker.js": "/uniswap-history/service-worker.js"
+  "main.css": "/static/css/main.1405e7c1.chunk.css",
+  "main.js": "/static/js/main.6776f623.chunk.js",
+  "main.js.map": "/static/js/main.6776f623.chunk.js.map",
+  "static/js/1.9a0b684b.chunk.js": "/static/js/1.9a0b684b.chunk.js",
+  "static/js/1.9a0b684b.chunk.js.map": "/static/js/1.9a0b684b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.1405e7c1.chunk.css.map": "/static/css/main.1405e7c1.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.99f03a7e3933dc7b4b441a0dd90186be.js": "/precache-manifest.99f03a7e3933dc7b4b441a0dd90186be.js",
+  "service-worker.js": "/service-worker.js"
 }
