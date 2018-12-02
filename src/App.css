@@ -1,0 +1,73 @@
+.volumeChart {
+}
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 100px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1;  // Stay on top 
+  top: 0; /* Stay at the top */
+  left: 0;
+  
+  overflow-x: hidden; /* Disable horizontal scroll */
+  /*padding-top: 20px;*/
+}
+
+.main-content {
+    position: absolute;
+    left: 110px;
+    width:calc(100% - 120px);
+}
+
+/* Default token selector cell */
+.token-selector {
+  text-align: left;
+  
+}
+
+/* The active token selector cell */
+.token-selector-active {
+	background:#252526;
+	
+}
+
+/* attribution text for loading gif */
+.attribution {
+  color:#FFFFFF;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* truncated text */
+.truncate {
+  width: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;  
+}
+
+/* table cell when it's a transaction that the user made */
+.myTransaction {
+  background:#363f49;  
+}
+
+/* Image to install metamask when web3 not detected */
+.installMetaMask {
+  position: relative;
+  height: 200px;
+  margin-top:200px;
+  
+  text-align: center;
+ }
+
+/* Text to install metamask when web3 not detected */
+ .installMetaMaskText {
+  color:#a0a0a0;
+ }
+ 
+ /* Loading gif */
+ .LoadingImage {
+    display:block; 
+    margin:0 auto;
+    text-align:center
+ }
